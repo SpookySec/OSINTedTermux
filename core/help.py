@@ -14,8 +14,6 @@ HelpMenu = f"""{white} Misc:
     {yellow} phoneinfo:{green} basic phone number information
     {yellow} portscan:{green} basic Nmap port scan
     {yellow} passwordcheck:{green} a personal favorite, check if the password has been breached before
-    {yellow} imagesearch:{green} google reverse image search
     {yellow} maclookup:{green} I bet this will save you 16 hours of your life, trying to lookup a MAC address
     {yellow} instainfo:{green} heard of Instagram scraping before?
-    {yellow} sherlock:{green} ah I just love this one, lookup a username across different social platforms
-    {yellow} metadata:{green} extracts some meta data out of files"""
+    {yellow} sherlock:{green} ah I just love this one, lookup a username across different social platforms"""
