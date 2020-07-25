@@ -5,10 +5,9 @@ import glob
 
 commands = ["phoneinfo", "sherlockupdate",
 "whois", "ipinfo", 
-"nslookup", "imagesearch", 
-"maclookup", "passwordcheck", 
-"portscan", "sherlock",
-"metadata", "instainfo", 
+"nslookup", "maclookup", 
+"passwordcheck", "portscan", 
+"sherlock", "instainfo", 
 "help", "clear", 
 "exit", "banner", 
 "update", "whoami"]
